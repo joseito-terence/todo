@@ -12,7 +12,8 @@ Check it out @ [Todo-app](https://react-native-web-todo-app.netlify.app/)
 
 * [React Native/Expo](https://reactnative.dev/docs/getting-started)
 * [Ant Design Mobile RN](https://rn.mobile.ant.design/components/textarea-item/)
-
+* [React-Redux](https://react-redux.js.org/introduction/getting-started)
+* [Axios](https://www.npmjs.com/package/axios)
 
 ## Backend API
 [https://github.com/joseito-terence/todo-api](https://github.com/joseito-terence/todo-api)
